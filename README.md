@@ -11,9 +11,9 @@
 <p>Để bắt đầu hãy truy cập vào website https://diachinhadat.com và tạo cho mình một tài khoản miễn phí. Chúng tôi chỉ thu thập thông tin cơ bản của bạn với mục đích giúp bạn bán hàng dễ hơn, còn lại không tiết lộ thông tin hay làm bất kỳ điều gì tổn hại đến bạn.</p>
 
 <p>Sau đó nhấn vào ĐĂNG TIN MIỄN PHÍ và chọn mục bạn cần đăng theo tùy chọn:</p>
-<a href="https://diachinhadat.com/dang-tin-nha-dat">Đăng tin bán — cho thuê nhà đất, phòng trọ </a>
-<a href="https://diachinhadat.com/dang-tin-sang-nhuong-quan">Đăng tin sang nhượng mặt bằng</a>
-<a href="https://diachinhadat.com/dang-tin-du-an">Đăng tin dự án bất động sản</a>
+<p><a href="https://diachinhadat.com/dang-tin-nha-dat">Đăng tin bán — cho thuê nhà đất, phòng trọ </a></p>
+<p><a href="https://diachinhadat.com/dang-tin-sang-nhuong-quan">Đăng tin sang nhượng mặt bằng</a></p>
+<p><a href="https://diachinhadat.com/dang-tin-du-an">Đăng tin dự án bất động sản</a></p>
 <p>Thật dễ dàng đễ bắt đầu phải không?, và chỉ mất 1 vài bước để thực hiện. Bạn hoàn toàn có thể thực hiện điều này trên cả Máy tính, IPad và Điện thoại</p>
 
 <p>Chúc các bạn thành công!</p>
